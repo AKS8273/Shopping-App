@@ -1,5 +1,10 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 2023 complete code
-# Please check branches source code is video no wise 
-## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
-## please like subscribe and share TechinfoYT youtube chaannel
+* Developed a responsive e-commerce platform with user and admin authentication, enabling secure user and admin
+registration, login, and logout functionality. 
+
+* Featuring admin and user dashboard, product listing, cart management, user reviews, and secure Braintree payment
+gateway, all accessible through authenticated user accounts
+
+* Implemented search capabilities and a personalized ”Favorites” section to enhance product discoverability and user
+engagement.
+
+
